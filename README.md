@@ -2,3 +2,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timkmit&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timkmit&theme=2077)
 ![](https://komarev.com/ghpvc/?username=timkmit)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkmit&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
