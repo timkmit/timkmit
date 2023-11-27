@@ -1,6 +1,6 @@
 
 <div>
- <img height="200" wigth="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timkmit&theme=2077">
+ <img height="180" wigth="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timkmit&theme=2077">
 </div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timkmit&theme=2077)
