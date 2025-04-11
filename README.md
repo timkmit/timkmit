@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-family: 'Orbitron', sans-serif; color: #00ffe1; text-shadow: 1px 1px 8px #00ffe155;">Hi, I'm Timur 👋</h1>
   <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&width=240&lines=Fullstack+developer;Clean+code+enthusiast;Team+player+%26+startup+dreamer" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&width=240&lines=Fullstack+developer" />
  </p>
 </div>
 
