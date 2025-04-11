@@ -25,7 +25,7 @@
 - Build and refactor fullstack apps from scratch  
 - Work with REST APIs, microservices and MVC architectures
 - Integrate bots, Web3 features, and solid backends  
-- Set up containerized environments and CI/CD  
+- Set up containerized environments
 
 ---
 
